@@ -1,0 +1,7 @@
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\bin\Debug\ProgrammingTest.exe.config
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\bin\Debug\ProgrammingTest.exe
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\bin\Debug\ProgrammingTest.pdb
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.exe
+C:\Users\zbcrabg\source\repos\ProgrammingTest\ProgrammingTest\obj\Debug\ProgrammingTest.pdb
